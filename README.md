@@ -1,4 +1,5 @@
 # Sinderella
+[![Build Status](https://travis-ci.org/prumsambath/sinderella.svg?branch=master)](https://travis-ci.org/prumsambath/sinderella)[![Coverage Status](https://coveralls.io/repos/prumsambath/sinderella/badge.png)](https://coveralls.io/r/prumsambath/sinderella)
 
 TODO: Write a gem description
 
